@@ -26,7 +26,7 @@ struct FontInitRec {
     const bool          fHide;
 };
 
-#define INIT_REC_COUNT 38
+#define INIT_REC_COUNT 74
 
 typedef uint32_t FallbackIdArray[INIT_REC_COUNT + 1];
 
